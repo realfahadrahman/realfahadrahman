@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 **Full‑stack software engineer in Montreal** · TypeScript · React · Node · .NET/C# · Python · Realtime AI · Clean UX
 
 [![Portfolio](https://img.shields.io/badge/Website-Visit-blue)](https://realfahadrahman.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://www.linkedin.com/in/fahadabdulrahman/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://www.linkedin.com/in/realfahadrahman/)
 [![Email](https://img.shields.io/badge/Email-Contact-success)](mailto:fahad7923@gmail.com)
 ![Views](https://komarev.com/ghpvc/?username=fahad7923\&color=grey)
 
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 * 💼 Open to full‑stack and platform roles
 * 🌍 Based in Montreal · Canadian citizen · Fluent EN/FR
-* 📫 **[fahad7923@gmail.com](mailto:fahad7923@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/fahadabdulrahman/) · [Website](https://realfahadrahman.com)
+* 📫 **[fahad7923@gmail.com](mailto:fahad7923@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/realfahadrahman/) · [Website](https://realfahadrahman.com)
 
 ---
 
@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 
 * 💼 Open to full‑stack and platform roles
 * 🌍 Based in Montreal · Canadian citizen · Fluent EN/FR
-* 📫 **[fahad7923@gmail.com](mailto:fahad7923@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/fahadabdulrahman/) · [Website](https://realfahadrahman.com)
+* 📫 **[fahad7923@gmail.com](mailto:fahad7923@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/realfahadrahman/) · [Website](https://realfahadrahman.com)
 
 ---
 
