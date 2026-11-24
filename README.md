@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ## What I build
 
-* Realtime assistants with sub‑200 ms UX and multilingual interfaces
+* Realtime assistants with multilingual interfaces
 * Data and search apps with crisp filtering and fast queries
 * Practical ML demos with clear metrics, bias notes, and clean visualizations
 
